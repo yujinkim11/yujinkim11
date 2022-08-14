@@ -8,7 +8,7 @@ Frontend Developer<br/>
 <br/>
 
 ### ✅ Technology Stacks
-<img src="https://img.shields.io/badge/javascript-E7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" width="120px"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" width="120px"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" width="120px"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" width="120px"> <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" width="120px">
+<img src="https://img.shields.io/badge/javascript-E7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" width="120px"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
 
 
