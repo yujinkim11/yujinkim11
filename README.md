@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YUJIN%20KIM&fontSize=90)
 <br/>
 ## 김유진* yujin kim* 👋
-Frontend Developer
-2022.04 ~ ing
+Frontend Developer<br/>
+2022.04 ~ ing<br/>
 👀  <a href="http://yujinkim11.github.io/portfolio">PORTFOLIO</a> 
 <br/>
-
+<br/>
 
 ### ✅ Technology Stacks
 <img src="https://img.shields.io/badge/javascript-E7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
