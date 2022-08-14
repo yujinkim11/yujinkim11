@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### 김유진 KIMYUJIN 👋
 
 <!--
 **yujinkim11/yujinkim11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
