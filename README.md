@@ -2,7 +2,6 @@
 ## 김유진 yujin kim 👋
 Frontend Developer<br/>
 2022.04 ~ ing<br/>
-👀  <a href="http://yujinkim11.github.io/portfolio">PORTFOLIO</a> 
 <br/>
 <br/>
 
